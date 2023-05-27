@@ -1,0 +1,16 @@
+{
+  "name": "random-str-msg-esarmiem",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Elder Sarmiento <eldersarmiento1@gmail.com>",
+  "license": "MIT",
+  "bin":{
+    "random-str-msg-esarmiem": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
