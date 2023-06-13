@@ -1,2 +1,2 @@
 # random-str-msg-esarmiem
-Random String Messages
+Random String Messages npm package
